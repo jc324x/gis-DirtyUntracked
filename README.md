@@ -1,1 +1,1 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+The sly brown fox jumped over the lazy dog.
